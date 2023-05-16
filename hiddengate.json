@@ -1,0 +1,8 @@
+{
+    "name": "Hiddengate1",
+    "description": "Personal repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hiddengate1/hiddengate/builds/plugins.json"
+    ]
+  }
